@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!--相对布局 随意布局  -->
+    <Button
+        android:id="@+id/A"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="文件操作" />
+
+    <Button
+        android:id="@+id/B"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="数据保存操作" />
+
+    <Button
+        android:id="@+id/C"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="缓存账号密码" />
+
+    <Button
+        android:id="@+id/D"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SQLite数据库" />
+
+    <Button
+        android:id="@+id/E"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="获取联系人" />
+
+    <Button
+        android:id="@+id/F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="F" />
+
+    <Button
+        android:id="@+id/G"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="G" />
+
+    <Button
+        android:id="@+id/H"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="H" />
+
+    <Button
+        android:id="@+id/K"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="K" />
+
+</LinearLayout>
